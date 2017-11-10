@@ -1,0 +1,19 @@
+.edge {
+	color:red;
+}
+
+h1 {
+	color:#ffcc33;
+}
+
+#MyTitle4 {
+	color:green;
+} 
+
+#MyTitle2,#MyTitle3 {
+	color:blue;
+}
+
+a>b {
+	color:blue;
+}
