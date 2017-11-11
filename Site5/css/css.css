@@ -1,19 +1,19 @@
-.edge {
-	color:red;
-}
-
-h1 {
-	color:#ffcc33;
-}
-
-#MyTitle4 {
-	color:green;
-} 
-
-#MyTitle2,#MyTitle3 {
-	color:blue;
-}
-
-a>b {
-	color:blue;
-}
+    p.edge {
+            color: red;
+        }
+        
+        p+h1,
+        p#MyTitle3 b {
+            color: #fad507;
+        }
+        
+        #MyTitle2,
+        p#MyTitle3,
+        #MyTitle4 a+b {
+            color: #5994d9;
+        }
+        
+        #Title4_text {
+            color: green;
+            ;
+        }
