@@ -3,14 +3,14 @@
         }
         
         p+h1,
-        p#MyTitle3 b {
-            color: #fad507;
+        p#MyTitle3 a~b {
+            color: yellow;
         }
         
         #MyTitle2,
         p#MyTitle3,
         #MyTitle4 a+b {
-            color: #5994d9;
+            color: blue;
         }
         
         #Title4_text {
