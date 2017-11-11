@@ -1,0 +1,24 @@
+h1 {
+	color:red;
+	text-align: center;
+}
+
+tr td img {
+	width:50%;
+	height:500px;
+	padding-left: 300px;
+}
+nav a {
+	padding: 15px;
+	text-decoration: none;
+	float:left;
+}
+nav {
+	background-color: #f1f1f1;
+	height: 50px;
+	width: 100%;
+	margin: none;
+}
+div {
+	color:blue;
+}
